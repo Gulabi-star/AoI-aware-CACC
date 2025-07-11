@@ -1,1 +1,1 @@
-# AoI-aware-CACC
+# AoI-aware CACC
