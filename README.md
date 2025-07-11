@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/91586536-ff22-4c72-ab82-24205f0085fd
 <b> 3. AoI-aware CACC for Vehicle Platooning  <br> (Urban map scenario)</b> <br>
 This scenario demonstrates a control strategy that improves platoon safety in urban environments where communication with the leader is disrupted. The Age of Information (AoI)-aware CACC uses the freshness of received data to decide which vehicle’s information to use during its control input computation. When packets from the leader are delayed or lost, instead of relying on outdated data, each vehicle selects the most recent and reliable data from upstream vehicles (towards the platoon head). This allows the platoon to maintain safe spacing and avoid collisions, even under poor communication conditions caused by buildings or obstacles.
 
-https://github.com/user-attachments/assets/7eaee705-da46-4e02-8f57-bf7fda95a73c
+https://github.com/user-attachments/assets/21c1d357-02fc-4727-b42f-fe6c40352aff
 
 
 
