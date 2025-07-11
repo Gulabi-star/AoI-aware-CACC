@@ -1,4 +1,4 @@
-# Platoon Coordination: LOS, NLOS & AoI Control
+# Platoon Coordination: Line-of-sight (LOS), Non-LOS & Age-of-Information (AoI)-based CACC 
 <b> 1. Line-of-sight_communication_with_platoon_leader <br> (Intersection scenario) </b> <br>
 This scenario presents a simulation of vehicle platooning using OMNeT++ and SUMO, where OMNeT++ manages wireless communication based on the DSRC protocol, and SUMO models traffic dynamics. The simulation framework is extended with Veins and PLEXE to enable Cooperative Adaptive Cruise Control (CACC) among platoon vehicles. A platoon comprising fifteen vehicles approaches an intersection with an unobstructed line-of-sight (LOS) to the platoon leader. There are no buildings or physical obstacles at the corner to impair communication. Each vehicle continuously exchanges Cooperative Awareness Messages (CAMs) containing real-time state information such as position, velocity, and acceleration.
 
